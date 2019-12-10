@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluelinky.Net", "Bluelinky.Net\Bluelinky.Net.csproj", "{FD1E5D12-D18E-4B59-B692-A9188859B606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueLink.Net.TestConsoleApp", "BlueLink.Net.TestConsoleApp\BlueLink.Net.TestConsoleApp.csproj", "{3F88FA0B-4AEB-4F3F-9A46-5CA80C144FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1E5D12-D18E-4B59-B692-A9188859B606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1E5D12-D18E-4B59-B692-A9188859B606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1E5D12-D18E-4B59-B692-A9188859B606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1E5D12-D18E-4B59-B692-A9188859B606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F88FA0B-4AEB-4F3F-9A46-5CA80C144FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F88FA0B-4AEB-4F3F-9A46-5CA80C144FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F88FA0B-4AEB-4F3F-9A46-5CA80C144FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F88FA0B-4AEB-4F3F-9A46-5CA80C144FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743B62A5-A6DD-4D51-9F7F-86DB485A2ED4}
+	EndGlobalSection
+EndGlobal
